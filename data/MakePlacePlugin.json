@@ -1,10 +1,9 @@
-[{
+{
   "Author": "Jawslouis",
-  "Name": "MakePlace Fun",
-  "InternalName": "MakePlacePluginFun",
-  "AssemblyVersion": "2.25",
-  "Punchline": "Automatically save & load furniture layouts in your house.",
-  "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.",
+  "Name": "MakePlace Plugin",
+  "InternalName": "MakePlacePlugin",
+  "AssemblyVersion": "2.23.0.0",
+  "Description": "Automatically save & load interior and exterior house layouts. Import/export layouts from the MakePlace program.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/jawslouis/MakePlacePlugin",
   "Tags": [
@@ -14,12 +13,11 @@
     "jawslouis"
   ],
   "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/mibby/MakePlacePlugin/master/data/icon.png",
-  "DownloadCount": 127331,
-  "DownloadLinkInstall": "",
-  "DownloadLinkTesting": "",
-  "DownloadLinkUpdate": "",
-  "_isDip17Plugin": false,
-  "_Dip17Channel": null
-}]
+  "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png",
+  "Punchline": "Automatically save & load furniture layouts in your house.",
+  "AcceptsFeedback": true
+}
