@@ -197,6 +197,7 @@ namespace MakePlacePlugin
         {
             var addon = GameGui.GetAddonByName("HousingGoods", 1);
 
+            return true;
             return addon != IntPtr.Zero;
         }
 
