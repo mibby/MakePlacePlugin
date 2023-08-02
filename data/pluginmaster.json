@@ -17,9 +17,9 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/mibby/MakePlacePlugin/master/data/icon.png",
   "DownloadCount": 127331,
-  "DownloadLinkInstall": "https://github.com/mibby/MakePlacePlugin/blob/master/data/latest.zip",
-  "DownloadLinkTesting": "https://github.com/mibby/MakePlacePlugin/blob/master/data/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/mibby/MakePlacePlugin/blob/master/data/latest.zip",
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/mibby/MakePlacePlugin/master/data/latest.zip",
+  "DownloadLinkTesting": "https://raw.githubusercontent.com/mibby/MakePlacePlugin/master/data/latest.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/mibby/MakePlacePlugin/master/data/latest.zip",
   "_isDip17Plugin": false,
   "_Dip17Channel": null
 }]
